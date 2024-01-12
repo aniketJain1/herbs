@@ -1,0 +1,17 @@
+.logo-logo {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  text-decoration: none;
+}
+.logo-icon {
+  width: 24px;
+  height: 24px;
+}
+.logo-text {
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  margin-left: var(--dl-space-space-halfunit);
+}
